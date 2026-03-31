@@ -1,2 +1,10 @@
-# Weather-App
-The Weather Forecasting Application is a modern, web-based dashboard designed to provide users with an immersive and highly visual way to track atmospheric conditions.
+A dynamic and visually appealing weather dashboard that displays the current weather, forecast for the week, and other relevant information
+
+Features -> Live Weather Updates: Get real-time weather data for your location or any city around the world. -> 7-Day Forecast: A comprehensive weekly forecast with day-wise temperature, icons, and details. -> Responsive Design: Fully responsive layout, optimized for desktop and mobile devices. -> Interactive Animations: Subtle hover effects and animations that improve user engagement. -> Background Video: A dynamic background video that adds aesthetic appeal.
+
+Technologies Used
+
+HTML5
+CSS3 (including animations and gradients)
+JavaScript
+External API: Integrated with OpenWeather API for live weather data.
